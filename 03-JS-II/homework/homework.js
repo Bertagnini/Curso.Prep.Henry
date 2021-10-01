@@ -10,7 +10,7 @@ function obtenerMayor(x, y) {
 }
   return y;
 }
-
+gi
 
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
